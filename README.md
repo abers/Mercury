@@ -1,2 +1,2 @@
 # Mercury
-Mercury - reseach contact database and log
+Mercury - research contact database and log
